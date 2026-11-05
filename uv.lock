@@ -1775,7 +1775,7 @@ wheels = [
 ]
 
 [[package]]
-name = "nlp1-student-tutorial1-2026"
+name = "nlp-first-assignment"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

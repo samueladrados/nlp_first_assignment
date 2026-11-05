@@ -1,5 +1,5 @@
 [project]
-name = "nlp1-student-tutorial1-2026"
+name = "nlp-first-assignment"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
