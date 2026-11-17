@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 results/
+part2/models/*.zip
+pyproject.toml
+uv.lock
+part2/tutorial.ipynb
