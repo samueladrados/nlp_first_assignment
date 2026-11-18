@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 results/
 part2/models/*.zip
+part2/models/*.txt.gz
 pyproject.toml
 uv.lock
 part2/tutorial.ipynb
